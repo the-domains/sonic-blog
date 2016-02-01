@@ -2,13 +2,13 @@ name: Sonic Blog
 favicon: null
 layout_spectrum: 0.5717058889567852
 typography_spectrum: 0.700370752485469
-title: Sonic Labs
+title: Sonic Lab
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73143886-1
   facebook: null
   twitter: null
 opengraph:
