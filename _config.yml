@@ -1,0 +1,28 @@
+name: Sonic Blog
+favicon: null
+layout_spectrum: 0.5717058889567852
+typography_spectrum: 0.700370752485469
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8954047097358853
+  lightness: 0.8577707554213703
+  saturation: 0.053707213839516044
+  rhythmicContrast: 0.4203155739232898
+purpose: []
