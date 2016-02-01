@@ -1,7 +1,7 @@
 name: Sonic Blog
 favicon: null
-layout_spectrum: 0.5717058889567852
-typography_spectrum: 0.700370752485469
+layout_spectrum: 1
+typography_spectrum: 0.60018
 title: Sonic CoLab
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.8954047097358853
-  lightness: 0.8577707554213703
-  saturation: 0.053707213839516044
-  rhythmicContrast: 0.4203155739232898
+    - '#ffffff'
+    - '#067df7'
+    - '#404040'
+    - '#a8d2fb'
+    - '#69b1f8'
+  brandStrength: 0.875
+  lightness: 0.5625
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
